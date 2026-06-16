@@ -56,13 +56,11 @@ Mobile_Phone_Detection
 
 ### Phone Detection Window
 
-![Detection Window](detection_window.png)
-
----
+![Detection Window](screenshot1.png)
 
 ### Terminal Output
 
-![Terminal Output](terminal_output.png)
+![Terminal Output](screenshot2.png)
 
 ---
 
